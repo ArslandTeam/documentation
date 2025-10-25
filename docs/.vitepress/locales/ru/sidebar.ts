@@ -1,7 +1,8 @@
 export const sidebar = [
   {
     items: [
-      { text: 'Конфиденциальность', link: '/basic/confidentiality' }
+      { text: 'Конфиденциальность', link: '/basic/confidentiality' },
+      { text: 'Положение работы персонала', link: '/basic/staff-position.md' },
     ]
   },
   {
