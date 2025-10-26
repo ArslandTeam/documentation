@@ -9,8 +9,8 @@ export const sidebar = [
     text: 'Minecraft',
     items: [
       { text: 'Правила', link: '/minecraft/rules' },
-      { text: 'Приваты', link: 'minecraft/private' },
-      { text: 'GriefLogger', link: 'minecraft/grief-logger' }
+      { text: 'Приваты', link: '/minecraft/private' },
+      { text: 'GriefLogger', link: '/minecraft/grief-logger' }
     ]
   },
   {
