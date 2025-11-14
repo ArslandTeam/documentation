@@ -1,6 +1,6 @@
 # Правила discord
 ## 1. Общие положения
-Вы обязаны соблюдать Discord Terms of Service. и Discord Community Guidelines..
+Вы обязаны соблюдать [Discord Terms of Service.](https://discord.com/terms) и [Discord Community Guidelines.](https://discord.com/guidelines).
 Основным языком на проекте является Русский. Мы просим участников общаться именно на этом языке, так как все формы коммуницирования проекта с участником ориентированы на данный язык.
 Персонал проекта оставляет за собой право изменять свод данных правил в любой момент.
 
