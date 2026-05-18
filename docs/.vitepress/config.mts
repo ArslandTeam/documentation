@@ -34,7 +34,7 @@ export default defineConfig({
   },
   locales: {
     root: ru,
-    en: en,
+    // en: en,
   },
   themeConfig: {
     logo: "/logo.svg",
