@@ -18,15 +18,15 @@ export const ru = {
     },
     outlineTitle: "На этой странице",
     nav: [
-      { text: 'Главная', link: '/' },
-      { text: 'Личный кабинет', link: 'https://arsland.ru' }
+      { text: "Главная", link: "/" },
+      { text: "Личный кабинет", link: "https://arsland.ru" },
     ],
     footer: {
-      message: 'Опубликовано под лицензией MPL-2.0.',
-      copyright: '© 2025 – настоящее время, ArslandTeam'
+      message: "Опубликовано под лицензией MPL-2.0.",
+      copyright: "© 2026 – настоящее время, ArslandTeam",
     },
-    sidebar: sidebar
-  }
+    sidebar: sidebar,
+  },
 };
 
 export const search = {
@@ -45,4 +45,4 @@ export const search = {
       },
     },
   },
-}
+};

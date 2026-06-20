@@ -1,4 +1,4 @@
-import sidebar from "./sidebar"
+import sidebar from "./sidebar";
 
 export const en = {
   label: "English",
@@ -6,13 +6,13 @@ export const en = {
   link: "/en/",
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/en/' },
-      { text: 'WebSite', link: 'https://arsland.ru' }
+      { text: "Home", link: "/en/" },
+      { text: "WebSite", link: "https://arsland.ru" },
     ],
     footer: {
-      message: 'Released under the MPL-2.0 License.',
-      copyright: 'Copyright © 2025-ArslandTeam'
+      message: "Released under the MPL-2.0 License.",
+      copyright: "Copyright © 2026-ArslandTeam",
     },
-    sidebar: sidebar
-  }
-}
+    sidebar: sidebar,
+  },
+};
