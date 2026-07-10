@@ -19,7 +19,7 @@ export const ru = {
     outlineTitle: "На этой странице",
     nav: [
       { text: "Главная", link: "/" },
-      { text: "Личный кабинет", link: "https://arsland.ru" },
+      { text: "Личный кабинет", link: "https://arsland.dev" },
     ],
     footer: {
       message: "Опубликовано под лицензией MPL-2.0.",

@@ -27,7 +27,7 @@ export default defineConfig({
     ],
   ],
   sitemap: {
-    hostname: "https://docs.arsland.ru",
+    hostname: "https://docs.arsland.dev",
   },
   rewrites: {
     "ru/:rest*": ":rest*",

@@ -7,7 +7,7 @@ export const en = {
   themeConfig: {
     nav: [
       { text: "Home", link: "/en/" },
-      { text: "WebSite", link: "https://arsland.ru" },
+      { text: "WebSite", link: "https://arsland.dev" },
     ],
     footer: {
       message: "Released under the MPL-2.0 License.",
