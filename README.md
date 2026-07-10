@@ -1,4 +1,4 @@
-# docs.arsland.ru
+# docs.arsland.dev
 
 Install bun packages
 ```
