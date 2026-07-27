@@ -11,6 +11,7 @@ export const sidebar = [
     text: "Minecraft",
     items: [
       { text: "Правила", link: "/minecraft/rules" },
+      { text: "Игра на Linux", link: "/minecraft/game-on-linux" },
       // { text: 'Приваты', link: '/minecraft/private' },
       // { text: 'GriefLogger', link: '/minecraft/grief-logger' }
     ],
