@@ -2,8 +2,9 @@ export const sidebar = [
   {
     items: [
       { text: "Конфиденциальность", link: "/basic/confidentiality" },
-      { text: "Положение работы персонала", link: "/basic/staff-position.md" },
+      // { text: "Положение работы персонала", link: "/basic/staff-position.md" },
       { text: "Правила сообщества", link: "/basic/community-rules.md" },
+      { text: "Кодекс поведения", link: "/basic/code-of-conduct.md" },
     ],
   },
   {
