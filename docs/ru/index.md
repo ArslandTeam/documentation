@@ -24,8 +24,8 @@ features:
   - icon: 🚀
     title: Производительность
     details: Стабильный ТПС и пинг от сервера Minecraft
-    link: https://launcher.arsland.dev/files/clients/Create/mods/
   - icon: 📦
     title: Контент
     details: Проработанная сборка модов
+    link: https://launcher.arsland.dev/files/clients/Create/mods/
 ---
