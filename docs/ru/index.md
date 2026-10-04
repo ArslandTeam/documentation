@@ -27,4 +27,5 @@ features:
   - icon: 📦
     title: Контент
     details: Проработанная сборка модов
+    link: https://launcher.arsland.dev/files/clients/Create/mods/
 ---

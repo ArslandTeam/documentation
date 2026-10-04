@@ -2,14 +2,16 @@ export const sidebar = [
   {
     items: [
       { text: "Конфиденциальность", link: "/basic/confidentiality" },
-      { text: "Положение работы персонала", link: "/basic/staff-position.md" },
+      // { text: "Положение работы персонала", link: "/basic/staff-position.md" },
       { text: "Правила сообщества", link: "/basic/community-rules.md" },
+      { text: "Кодекс поведения", link: "/basic/code-of-conduct.md" },
     ],
   },
   {
     text: "Minecraft",
     items: [
       { text: "Правила", link: "/minecraft/rules" },
+      { text: "Игра на Linux", link: "/minecraft/game-on-linux" },
       // { text: 'Приваты', link: '/minecraft/private' },
       // { text: 'GriefLogger', link: '/minecraft/grief-logger' }
     ],
