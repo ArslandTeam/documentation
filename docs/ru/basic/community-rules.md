@@ -23,9 +23,9 @@
 ### 3. Регулирование отдельными документами
 
 * **3.1. Разделение правил:** Полный перечень конкретных запретов, игровых механик и локальных наказаний для каждой площадки вынесен в отдельные самостоятельные документы, являющиеся неотъемлемой частью данных Правил:
-* Особые правила Telegram — размещены по адресу: [https://docs.arsland.ru/telegram/rules](https://docs.arsland.ru/telegram/rules).
-* Особые правила сервера Discord — размещены по адресу: [https://docs.arsland.ru/discord/rules](https://docs.arsland.ru/discord/rules).
-* Особые правила сервера Minecraft — размещены по адресу: [https://docs.arsland.ru/minecraft/rules](https://docs.arsland.ru/minecraft/rules).
+* Особые правила Telegram — размещены по адресу: [https://arsland.ru/docs/telegram/rules.
+* Особые правила сервера Discord — размещены по адресу: https://arsland.ru/docs/discord/rules.
+* Особые правила сервера Minecraft — размещены по адресу: https://arsland.ru/dev/minecraft/rules.
 * **3.2. Обязательность ознакомления:** Участник обязуется самостоятельно изучить правила конкретной площадки до начала её использования. Факт отправки сообщения или входа на сервер подтверждает, что Участник ознакомлен и согласен с локальным регламентом.
 
 ---
@@ -60,4 +60,4 @@
 * **Telegram канал:** [@arsland_minecraft](https://t.me/arsland_minecraft)
 * **Telegram чат:** [@arsland_minecraft_chat](https://t.me/arsland_minecraft_chat)
 * **Discord сервер:** [Присоединиться к Discord](https://discord.gg/e3X5AbSfsj)
-* **Minecraft сервер (домен):** `play.arsland.ru`
+* **Minecraft сервер (домен):** `play.arsland.dev`
